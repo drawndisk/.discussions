@@ -1,2 +1,2 @@
-# discussions
-Repository specifically for discussions
+# Discussions
+This repository specifically serves as a "discussion board".
